@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dumb Phone</string>
+    <string name="tile_phone">Phone</string>
+    <string name="tile_messages">Messages</string>
+    <string name="tile_email">Email</string>
+    <string name="tile_gallery">Gallery</string>
+    <string name="tile_camera">Camera</string>
+    <string name="tile_clock">Clock</string>
+    <string name="tile_recorder">Recorder</string>
+    <string name="tile_torch">Torch</string>
+    <string name="no_app_found">No app found for this on your phone</string>
+    <string name="settings_hint">Long-press anywhere blank to open phone Settings</string>
+</resources>

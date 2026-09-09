@@ -1,0 +1,9 @@
+<resources>
+    <color name="background">#0E0F11</color>
+    <color name="tile_bg">#1B1D20</color>
+    <color name="tile_bg_pressed">#2A2D31</color>
+    <color name="accent">#E7E5E0</color>
+    <color name="text_primary">#F2F1EE</color>
+    <color name="text_secondary">#8A8D91</color>
+    <color name="torch_on">#F2C14E</color>
+</resources>
